@@ -1,0 +1,8 @@
+Identifier,Malloc cycles,Free cycles,Outside cycles,Average frag,frag at WMF
+FL-Re,476296,1506849,8972302,40.26%,64.299%
+BMP-Re,61671154,1590591,8971744,70.764%,96.652%
+B-Re,21112853,598198,8971868,82.086%,96.716%
+
+Heap size 384 KB
+BMP minimum grainsize,256 bytes
+Buddy system min bits, 8

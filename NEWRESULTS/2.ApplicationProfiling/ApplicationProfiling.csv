@@ -1,0 +1,8 @@
+Identifier,Malloc cycles,Free cycles,Outside cycles,frag at WMF, WMF,time
+FL-Re,476296,1506849,8972302,64.299%,40598,4204510
+BMP-Re,61671154,1590591,8971744,96.652%,235012,68613661
+B-Re,21112853,598198,8971868,96.716%,239624,27148588
+
+Heap size 384 KB
+BMP minimum grainsize,256 bytes
+Buddy system min bits, 8
