@@ -1,0 +1,30 @@
+Identifier,Malloc cycles,Free cycles,Outside cycles,frag at LMF,LMF,time
+FL-Pl,2260472,1641896,3294064,27.649%,5888
+FL-Ra,17359953,12612828,3166199,17.164%,119894
+FL-Pe,2257091,19085922,3284664,65.373%,111484
+BMP-Pl,19964032,2609494,3294489,50.493%,8120
+BMP-Ra,213226118,2346166,3164519,61.493%,258586
+BMP-Pe,391214122,2606520,3282325,67.744%,260577
+B-Pl,7200209,2933358,3298701,40.436%,7152
+B-Ra,34028366,2642408,3165352,61.492%,258582
+B-Pe,36298554,2938646,3280224,67.743%,260573
+
+Heap size 384 KB
+BMP minimum grainsize,256 bytes
+Buddy system min bits, 8
+
+smallSize = 12+rand(12)
+mediumSize = 120+rand(120)
+largeSize = 4020
+
+malloc(large)
+Plateau: repeat(1000,10,10);
+free(large)
+
+Ramp: repeat(1000,10,9);
+
+Peak:
+malloc(large)
+Plateau: repeat(10,1000,1000);
+free(large)
+
