@@ -1,0 +1,39 @@
+KEYWORDS:
+memory allocation OR malloc OR heap allocation
+AND 
+dynamic memory OR heap OR heterogenous memory
+
+Other keywords:
+Embedded systems
+System-on-chip
+on-chip memory
+
+
+---NTRS---
+NTRS:ntrs.nasa.gov
+Final search string:
+([All]Memory allocation 'OR' [All]malloc 'OR' [All]heap allocation)
+AND 
+([All]dynamic memory 'OR' [All]heap 'OR' [All]heterogenous memory)
+
+No relevant results
+-----------
+
+
+---Scopus--
+Best search string:
+TITLE-ABS-KEY(memory allocation AND (dynamic memory) AND ("system on chip")) AND TITLE(memory) AND ( LIMIT-TO ( SUBJAREA,"COMP " ) OR LIMIT-TO ( SUBJAREA,"ENGI " ) OR LIMIT-TO ( SUBJAREA,"MATH " ) ) 
+All relevant except 1,5 and 10. See scopus.bib.
+
+Other relevant works:
+Low power memory allocation and mapping for area-constrained systems-on-chips
+https://www-scopus-com.focus.lib.kth.se/record/display.uri?eid=2-s2.0-84978760287&origin=resultslist&sort=plf-f&src=s&st1=memory+allocation&nlo=&nlr=&nls=&sid=4f0031c6f49e71846116f115ab4694d5&sot=b&sdt=cl&cluster=scosubjabbr%2c%22MEDI%22%2cf%2c%22NEUR%22%2cf&sl=32&s=TITLE-ABS-KEY%28memory+allocation%29&relpos=12&citeCnt=1&searchTerm=
+
+Recursive algorithm for low-power memory partitioning
+https://www-scopus-com.focus.lib.kth.se/record/display.uri?eid=2-s2.0-0033676588&origin=reflist&sort=plf-f&src=s&st1=memory+allocation&nlo=&nlr=&nls=&sid=4f0031c6f49e71846116f115ab4694d5&sot=b&sdt=cl&cluster=scosubjabbr%2c%22MEDI%22%2cf%2c%22NEUR%22%2cf&sl=32&s=TITLE-ABS-KEY%28memory+allocation%29&recordRank=
+
+An application-specific memory partitioning method for low power
+https://www-scopus-com.focus.lib.kth.se/record/display.uri?eid=2-s2.0-48349144962&origin=reflist&sort=plf-f&src=s&st1=memory+allocation&nlo=&nlr=&nls=&sid=4f0031c6f49e71846116f115ab4694d5&sot=b&sdt=cl&cluster=scosubjabbr%2c%22MEDI%22%2cf%2c%22NEUR%22%2cf&sl=32&s=TITLE-ABS-KEY%28memory+allocation%29&recordRank=
+
+Optimizing Memory Management in Deeply Heterogeneous HPC Accelerators
+https://www-scopus-com.focus.lib.kth.se/record/display.uri?eid=2-s2.0-85030626908&origin=resultslist&sort=plf-f&src=s&sid=0158c39d1fd11ec92e06a4fd3e42020b&sot=a&sdt=a&sl=69&s=Optimizing+Memory+Management+in+Deeply+Heterogeneous+HPC+Accelerators&relpos=0&citeCnt=0&searchTerm=
